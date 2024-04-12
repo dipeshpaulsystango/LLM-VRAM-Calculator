@@ -77,3 +77,8 @@ TOTAL Inference Size of Model 70bb Model Loaded in nf4 (QUANT): 32.5962901115417
 ## TODO
 
 Streamlit App
+
+# FAQs
+- Calculation are accurate or mistmatch with your use case?
+  - Please update the formulas used in project, raise 
+a issue
