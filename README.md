@@ -72,3 +72,8 @@ TOTAL Inference Size of Model 70bb Model Loaded in FP32 (No QUANT): 130.38516044
 TOTAL Inference Size of Model 70bb Model Loaded in nf4 (QUANT): 32.59629011154175 GB
 --------------------------------------------------: NOTE ADD 20GB-30GB Extra for Safe Scenario :--------------------------------------------------
 ```
+
+
+## TODO
+
+Streamlit App
